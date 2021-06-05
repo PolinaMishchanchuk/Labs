@@ -1,0 +1,1 @@
+Just a simple example to show that program works correctly
